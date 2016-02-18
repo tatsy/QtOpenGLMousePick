@@ -5,7 +5,7 @@ QtOpenGLMousePick
 
 ## Build
 
-Please use ```CMake``` to build this project :-)
+Please use ```CMake``` to build this project :smiley:
 
 ```sh
 $ mkdir build
